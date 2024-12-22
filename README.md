@@ -1,8 +1,8 @@
-# smarthome<p>
-Smarthome System, contolled by AI<br>
-**DE:** Ein KI-Projekt zur Steuerung eines Hauses, dessen Zutritt, angegliederte Drohnen oder Roboter, Licht, Temperatur, Feuchtigkeit und Bewässerung. Zusätzlich das Kamerasystem zu Erkennung von Zutritt zum Grundstück und der Freigabe für berechtigte Personen, sowie Erkennung von Gefahren.<br>
+<u># smarthome</u><p>
+Smarthome System, contolled by AI<p>
+**DE:** Ein KI-Projekt zur Steuerung eines Hauses, dessen Zutritt, angegliederte Drohnen oder Roboter, Licht, Temperatur, Feuchtigkeit und Bewässerung. Zusätzlich das Kamerasystem zu Erkennung von Zutritt zum Grundstück und der Freigabe für berechtigte Personen, sowie Erkennung von Gefahren.<p>
 **EN:** An AI project for controlling a Home, its entrance, inplementet robots or drones, light, temperature, moisture, and watering. Additionaly cameras for overwatching entrance and granting entrance to the right people, if possible detecting of threats.<p>
----
+---<p>
 
 ## Ziel / Goal   <p>
 **DE:** Ein KI-Projekt zur Steuerung eines Hauses, dessen Zutritt, angegliederte Drohnen oder Roboter, Licht, Temperatur, Feuchtigkeit und Bewässerung. Zusätzlich das Kamerasystem zu Erkennung von Zutritt zum Grundstück und der Freigabe für berechtigte Personen, sowie Erkennung von Gefahren.<br>
