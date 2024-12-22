@@ -1,47 +1,46 @@
-# smarthome
-Smarthome System, contolled by AI
-**DE:** Ein KI-Projekt zur Steuerung eines Hauses, dessen Zutritt, angegliederte Drohnen oder Roboter, Licht, Temperatur, Feuchtigkeit und Bewässerung. Zusätzlich das Kamerasystem zu Erkennung von Zutritt zum Grundstück und der Freigabe für berechtigte Personen, sowie Erkennung von Gefahren.
-**EN:** An AI project for controlling a Home, its entrance, inplementet robots or drones, light, temperature, moisture, and watering. Additionaly cameras for overwatching entrance and granting entrance to the right people, if possible detecting of threats.
+# smarthome<p>
+Smarthome System, contolled by AI<br>
+**DE:** Ein KI-Projekt zur Steuerung eines Hauses, dessen Zutritt, angegliederte Drohnen oder Roboter, Licht, Temperatur, Feuchtigkeit und Bewässerung. Zusätzlich das Kamerasystem zu Erkennung von Zutritt zum Grundstück und der Freigabe für berechtigte Personen, sowie Erkennung von Gefahren.<br>
+**EN:** An AI project for controlling a Home, its entrance, inplementet robots or drones, light, temperature, moisture, and watering. Additionaly cameras for overwatching entrance and granting entrance to the right people, if possible detecting of threats.<p>
 ---
 
-## Ziel / Goal   
-**DE:** Ein KI-Projekt zur Steuerung eines Hauses, dessen Zutritt, angegliederte Drohnen oder Roboter, Licht, Temperatur, Feuchtigkeit und Bewässerung. Zusätzlich das Kamerasystem zu Erkennung von Zutritt zum Grundstück und der Freigabe für berechtigte Personen, sowie Erkennung von Gefahren.
-**EN:** An AI project for controlling a Home, its entrance, inplementet robots or drones, light, temperature, moisture, and watering. Additionaly cameras for overwatching entrance and granting entrance to the right people, if possible detecting of threats.
-
----
-
-## Technologien / Technologies  
-- **Python**  
-- **Azure AI**  
+## Ziel / Goal   <p>
+**DE:** Ein KI-Projekt zur Steuerung eines Hauses, dessen Zutritt, angegliederte Drohnen oder Roboter, Licht, Temperatur, Feuchtigkeit und Bewässerung. Zusätzlich das Kamerasystem zu Erkennung von Zutritt zum Grundstück und der Freigabe für berechtigte Personen, sowie Erkennung von Gefahren.<br>
+**EN:** An AI project for controlling a Home, its entrance, inplementet robots or drones, light, temperature, moisture, and watering. Additionaly cameras for overwatching entrance and granting entrance to the right people, if possible detecting of threats.<p>
 
 ---
 
-## Funktionen / Functions  
+## Technologien / Technologies  <p>
+- **Python**  <br>
+- **Azure AI**  <br>
+- **Azure AI Vision <p>
+---
+
+## Funktionen / Functions  <p>
+**DE:**  <br>
+-<br
+**EN:**  <br>
+- <br>
+
+---<br>
+
+## Zukunftspläne / To-Do List  <p>
+**DE:**  <br>
+-<br>
+- <br>
+**EN:**  <br>
+-<br>
+
+---<p>
+
+## Mitmachen / Contributing  <p>
 **DE:**  
--
-- 
-**EN:**  
--
+Beitragen zum Projekt ist willkommen! Sie können Pull Requests einreichen oder Issues öffnen.  <br>
 
----
+**EN:**  <br>
+Contributions are welcome! Feel free to submit pull requests or open issues.  <br>
 
-## Zukunftspläne / To-Do List  
-**DE:**  
--
-- 
-**EN:**  
--
+---<p>
 
----
-
-## Mitmachen / Contributing  
-**DE:**  
-Beitragen zum Projekt ist willkommen! Sie können Pull Requests einreichen oder Issues öffnen.  
-
-**EN:**  
-Contributions are welcome! Feel free to submit pull requests or open issues.  
-
----
-
-## Lizenz / License  
+## Lizenz / License  <p>
 This project is licensed under the MIT License - see the LICENSE file for details.
