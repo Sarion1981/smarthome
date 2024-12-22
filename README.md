@@ -18,7 +18,7 @@ Smarthome System, contolled by AI<br>
 
 ## Funktionen / Functions  <p>
 **DE:**  <br>
--<br
+-<br>
 **EN:**  <br>
 - <br>
 
